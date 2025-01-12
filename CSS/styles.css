@@ -10,20 +10,22 @@ a {text-decoration: none;}
         color: #2E2F42;
 }
 .accent-color {color: #4d5ae5;}
-.header-menu-link {
+.header-menu-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.header-menu-list {
+.header-menu-mail, .header-menu-tel  {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
+
+
 .solutions-box {
 background-color: #2E2F42;
 }
@@ -82,13 +84,12 @@ background-color: #2E2F42;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        
         color: #434455;
 }
 .team-back {
         background: #FFFFFF;
 }
-.Portfolio {
+.portfolio {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -96,17 +97,17 @@ background-color: #2E2F42;
         text-align: center;
         color: #2E2F42;
 }
-.Portfolio-back {
+.portfolio-back {
     background: #FFFFFF;
 }
-.Portfolio-title {
+.portfolio-title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
-.Portfolio-text {
+.portfolio-text {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
