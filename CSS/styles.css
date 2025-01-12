@@ -15,6 +15,10 @@ a {text-decoration: none;}
         color: #4d5ae5;
 }
 .header-logo .accent-color {color: #2e2f42;}
+
+.ul .header-menu-list a:hover {color: #404bbf;}
+.ul .header-menu-list a:focus {color: #404bbf;}
+
 .header-menu-list {
     font-weight: 500;
     font-size: 16px;
