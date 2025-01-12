@@ -120,7 +120,7 @@ background-color: #2E2F42;
         color: #434455;
 }
 .footer {
-    background: #2E2F42;
+background-color: #2E2F42;
 }
 .footer-logo {
         font-weight: 700;
@@ -130,8 +130,19 @@ background-color: #2E2F42;
         text-transform: uppercase;
         color: #F4F4FD;
 }
-.accent-color {
-    color: #4d5ae5;
+
+
+.footer-logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.footer-logo .accent-color {
+        color: #F4F4FD;
 }
 .footer-text {
         font-weight: 400;
